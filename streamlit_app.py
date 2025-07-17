@@ -12,7 +12,7 @@ import json
 import re
 
 PROJ_DIR = Path.cwd()
-RES_DIR = Path(PROJ_DIR, "res.6")
+RES_DIR = Path(PROJ_DIR, "res.8")
 DATA_DIR = Path(PROJ_DIR, "data")
 
 # 1. Download conda: https://conda-forge.org/download/
